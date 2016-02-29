@@ -1,0 +1,17 @@
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/obj/Debug/Assembly-CSharp.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/UnityEngine.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/UnityEditor.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/etay/Workspace/Roll-a-Ball/Roll-a-Ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
